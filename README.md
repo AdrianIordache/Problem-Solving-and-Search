@@ -16,5 +16,5 @@ python3 run.py --task=1 # task in [1, 2, 3, 4]
 ![](https://github.com/AdrianIordache/Problem-Solving-and-Search/blob/master/images/task-2.png)
 ### 3. N-Quens based on Local Search, using Genetic Algorithms (GA)
 ![](https://github.com/AdrianIordache/Problem-Solving-and-Search/blob/master/images/task-3.png)
-### 4. TicTacToe based Adversarial Search, using MinMax algorithm
+### 4. TicTacToe based on Adversarial Search, using MinMax algorithm
 ![](https://github.com/AdrianIordache/Problem-Solving-and-Search/blob/master/images/task-4.png)
